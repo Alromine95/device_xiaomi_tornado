@@ -77,11 +77,6 @@
         <fqname>ITmsNfc/default</fqname>
     </hal>
     <hal format="aidl">
-        <name>android.hardware.sensors</name>
-        <version>3</version>
-        <fqname>ISensors/default</fqname>
-    </hal>
-    <hal format="aidl">
         <name>android.hardware.thermal</name>
         <version>3</version>
         <fqname>IThermal/default</fqname>
